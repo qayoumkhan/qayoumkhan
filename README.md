@@ -38,7 +38,7 @@ A complete multi-platform eCommerce system built with modern technologies.
 <p align="center">
   <img src="images (1).jpg" width="220"/>
   <img src="website.png" width="240"/>
-  <img src="images/delivery1.png" width="220" hieght="400"/>
+  <img src="images/delivery1.png" width="220" height="400"/>
 </p>
 
 <p align="center">
