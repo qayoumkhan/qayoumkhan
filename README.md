@@ -36,7 +36,7 @@ A complete multi-platform eCommerce system built with modern technologies.
 # 📸 Project Preview
 
 <p align="center">
-  <img src="images/customer1.png" width="220"/>
+  <img src="images(1).jpg" width="220"/>
   <img src="images/vendor1.png" width="220"/>
   <img src="images/delivery1.png" width="220"/>
 </p>
